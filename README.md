@@ -1,10 +1,13 @@
-## 👋 Hi, I'm hak-fe
+## Hi, I'm hak-fe 👋
 
-<!-- solved.ac 백준 티어 카드 -->
-<!-- [![Solved.ac Profile](./solvedac-profile.svg)](https://solved.ac/cjf1685/) -->
+Embedded SW — STM32 · FreeRTOS · CAN
 
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hak-fe&show_icons=true&theme=tokyonight)
+- 🎓 CS @ Kyungpook National Univ.
+- 🔭 Now: FreeRTOS 멀티보드 CAN 네트워크 시뮬레이터
+- 📫 cjf1685@gmail.com <br>
 
-<!-- 기술 스택 뱃지 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hak-fe&layout=compact&theme=tokyonight)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,git,linux,aws)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC63F?style=for-the-badge) <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjf1685)](https://solved.ac/cjf1685)
